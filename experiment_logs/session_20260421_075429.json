@@ -1,0 +1,35 @@
+[
+  {
+    "session_id": "20260421_075429",
+    "timestamp": "2026-04-21T07:54:29.352937",
+    "query": "test",
+    "expanded_query": "test expanded",
+    "prompt_version": "v2",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "chunk_id": "c1",
+        "source": "pdf",
+        "source_name": "Test",
+        "score": 0.5,
+        "text_snippet": "hello"
+      }
+    ],
+    "similarity_scores": [
+      0.5
+    ],
+    "top_score": 0.5,
+    "avg_score": 0.5,
+    "system_prompt_chars": 14,
+    "user_prompt_chars": 14,
+    "full_prompt_preview": "Question: test",
+    "llm_response": "Answer: this is a test.",
+    "llm_response_chars": 23,
+    "failure_detected": false,
+    "failure_reason": null,
+    "latency_retrieval_ms": 42.0,
+    "latency_prompt_ms": 5.0,
+    "latency_llm_ms": 800.0,
+    "latency_total_ms": 847.0
+  }
+]
