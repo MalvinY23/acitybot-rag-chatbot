@@ -1,0 +1,8 @@
+data/
+experiment_logs/session_*.json
+experiment_logs/full_history.jsonl
+experiment_logs/feedback_store.json
+__pycache__/
+*.pkl
+*.index
+.env
