@@ -1,7 +1,7 @@
 # AcityBot — RAG Chatbot for Academic City University
 
 > A fully manual RAG (Retrieval-Augmented Generation) system.  
-> No LangChain · No LlamaIndex · No pre-built RAG pipelines.
+
 
 ---
 
